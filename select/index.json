@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ジョバイロ",
+  "base_artist": "Porno Graffitti",
+  "createdAt": "2025-12-11T10:46:03.222813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジョバイロ",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/01_ジョバイロ_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジョバイロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/02_ジョバイロ_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジョバイロ",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/03_ジョバイロ_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジョバイロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/04_ジョバイロ_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジョバイロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_ジョバイロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ジョバイロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_02_ジョバイロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ジョバイロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_03_ジョバイロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ジョバイロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_04_ジョバイロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ジョバイロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_05_ジョバイロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ジョバイロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_06_ジョバイロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ジョバイロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_07_ジョバイロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ジョバイロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_08_ジョバイロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ジョバイロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_09_ジョバイロ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ジョバイロ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_10_ジョバイロ_ポルノグラフィティ.txt"
+    }
+  ]
+}
